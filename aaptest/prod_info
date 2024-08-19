@@ -1,1 +1,5 @@
 message: "We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today!"
+font_size: "9"
+font_color: "yellow"
+other_formatting_start: "<b>"
+other_formatting_end: "</b>"
