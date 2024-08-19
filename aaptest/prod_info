@@ -1,1 +1,3 @@
 message: "We are having maintenance on today!"
+font_size: "8"
+font_color: "red"
