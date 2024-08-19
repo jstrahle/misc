@@ -1,6 +1,13 @@
+# When to start showing the banner
 start: "2024-08-19 12:00:00"
+
+# When to end showing the banner
 end: "2024-08-19 19:00:00"
+
+# Message to show
 message: "We are having maintenance on today! We are having maintenance at today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today! We are having maintenance on today!"
+
+# Additional formatting
 font_size: "9"
 font_color: "yellow"
 other_formatting_start: "<b>"
