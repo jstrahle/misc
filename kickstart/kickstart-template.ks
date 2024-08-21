@@ -1,4 +1,4 @@
-# Text based setup
+# Text based setup!
 text
 
 # Language, keyboard and timezone
